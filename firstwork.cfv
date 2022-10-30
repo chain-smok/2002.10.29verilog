@@ -1,0 +1,19 @@
+// Simucad Generated Commands Start Here
+
+// Simucad define
++define+sse
+
+// Project Settings
++assignment_tracking
++typdelays
+-"!file .sav=\"firstwork\""
+-"!control .sav=3"
+-"!control .enablecache"
+-"!control .savcell=0"
+-"!control .disk=1000M"
+
+// Input Files
+"tb_coms_inverter.v"
+"cmos_inverter.v"
+
+// Simucad Generated Commands End Here
